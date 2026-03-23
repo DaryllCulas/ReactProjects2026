@@ -53,7 +53,7 @@ export default function Home() {
         {
           loadingResumes && (
             <div className="flex flex-col items-center justify-center">
-              <img src="/public/images/resume-scan-2.gif" className="w-[200px]" />
+              <img src="/images/resume-scan-2.gif" className="w-[200px]" />
             </div>
           )
         }
